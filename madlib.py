@@ -1,15 +1,3 @@
-# Creates a string that says "Subscribe to _______ "
-#youtuber = "Cosmo" # some string variable
-
-# Madlib 1
-#print("Subscribe to " + youtuber)
-
-# Madlib 2 (formats the variable youtuber into the string using .format)
-
-#print("Subscribe to {}".format(youtuber))
-
-# Madlib 3
-#print(f"Subscribe to {youtuber}")
 
 adj = input("Adjective: ")
 verb1 = input("Verb 1: ")
